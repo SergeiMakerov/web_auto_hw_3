@@ -1,0 +1,20 @@
+2023-12-10 22:30:04 INFO ====== WebDriver manager ======
+2023-12-10 22:30:05 INFO Get LATEST chromedriver version for google-chrome
+2023-12-10 22:30:06 INFO Get LATEST chromedriver version for google-chrome
+2023-12-10 22:30:07 INFO Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-10 22:30:08 INFO Test1 starting
+2023-12-10 22:30:09 INFO Send Wolf to element //*[@id="login"]/div[1]/label/input
+2023-12-10 22:30:09 INFO Send 279ede0c6b to element //*[@id="login"]/div[2]/label/input
+2023-12-10 22:30:09 INFO Click login button
+2023-12-10 22:30:12 INFO Click Contact button
+2023-12-10 22:30:15 INFO We find text Contact us! in field //*[@id="app"]/main/div/div/h1
+2023-12-10 22:30:15 INFO Test2 starting
+2023-12-10 22:30:15 INFO Send Sergei to element //*[@id="contact"]/div[1]/label/input
+2023-12-10 22:30:16 INFO Send mail@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-12-10 22:30:16 INFO Send text to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-10 22:30:19 INFO We find text  in field //*[@id="contact"]/div[1]/label/input
+2023-12-10 22:30:19 INFO We find text  in field //*[@id="contact"]/div[2]/label/input
+2023-12-10 22:30:19 INFO We find text  in field //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-10 22:30:19 INFO Test3 starting
+2023-12-10 22:30:19 INFO Click Contact Us button
+2023-12-10 22:30:22 INFO We find text Form successfully submitted in alert

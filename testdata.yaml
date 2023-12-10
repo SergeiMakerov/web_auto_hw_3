@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 3
+login: "Wolf"
+password: "279ede0c6b"
+title: "Congratulations"
+content: "C o N t E n T"
